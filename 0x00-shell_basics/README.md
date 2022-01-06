@@ -1,1 +1,1 @@
-#This is the README for 0x00 shell task 0 
+#This is the README for 0x00 shell basics project 
