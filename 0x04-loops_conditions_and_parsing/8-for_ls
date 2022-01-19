@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#find files 
 cd=$(ls)
 file=0
 for file in $cd
