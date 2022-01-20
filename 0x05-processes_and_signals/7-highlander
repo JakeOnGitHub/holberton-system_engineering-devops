@@ -1,0 +1,8 @@
+i#!/usr/bin/env bash
+#highlander signal
+while true
+do
+	echo "To infinity and beyond"
+	sleep 2
+	trap "I am invincible!!!" SIGTERM
+done
