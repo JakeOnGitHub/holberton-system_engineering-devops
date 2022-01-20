@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#exit command in beheaded
+pkill -9 -f "7-highlander"
